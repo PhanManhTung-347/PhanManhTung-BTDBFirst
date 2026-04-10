@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\BTDBFirst\\PMT_BTDBFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D1476A-ED66-2766-8DBC-FEFD74B0DFBE}|PMT_BTDBFirst\\PMT_BTDBFirst.csproj|d:\\c#\\btdbfirst\\pmt_btdbfirst\\pmt_btdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98D1476A-ED66-2766-8DBC-FEFD74B0DFBE}|PMT_BTDBFirst\\PMT_BTDBFirst.csproj|solutionrelative:pmt_btdbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\BTDBFirst\\PMT_BTDBFirst\\PMT_BTDBFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "PMT_BTDBFirst\\appsettings.json",
+              "ToolTip": "D:\\C#\\BTDBFirst\\PMT_BTDBFirst\\PMT_BTDBFirst\\appsettings.json",
+              "RelativeToolTip": "PMT_BTDBFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T06:24:14.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 666,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
